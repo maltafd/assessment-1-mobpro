@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Luas Segitiga</string>
+
+    <string name="intro">MENGHITUNG LUAS SEGITIGA</string>
+    <string name="alas_segitiga">Alas</string>
+    <string name="tinggi_segitiga">Tinggi</string>
+    <string name="hitung">HITUNG</string>
+    <string name="hasil_x">%1$.2f</string>
+    <string name="alas_invalid">ALAS TIDAK BOLEH KOSONG!</string>
+    <string name="tinggi_invalid">TINGGI TIDAK BOLEH KOSONG!</string>
+</resources>
