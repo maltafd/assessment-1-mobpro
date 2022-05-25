@@ -1,11 +1,22 @@
 <resources>
-    <string name="app_name">Luas Segitiga</string>
-
-    <string name="intro">MENGHITUNG LUAS SEGITIGA</string>
-    <string name="alas_segitiga">Alas</string>
-    <string name="tinggi_segitiga">Tinggi</string>
-    <string name="hitung">HITUNG</string>
-    <string name="hasil_x">%1$.2f</string>
-    <string name="alas_invalid">ALAS TIDAK BOLEH KOSONG!</string>
-    <string name="tinggi_invalid">TINGGI TIDAK BOLEH KOSONG!</string>
+    <string name="app_name">Menghitung Luas Segitiga</string>
+    <string name="segitiga_intro">Aplikasi menghitung luas segitiga</string>
+    <string name="alas">Alas</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="reset">Reset</string>
+    <string name="hasil_x">Hasil: %1$.2f</string>
+    <string name="alas_invalid">Berat tidak boleh kosong!</string>
+    <string name="tinggi_invalid">Tinggi tidak boleh kosong!</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Aplikasi dibuat untuk memenuhi assessment MOBPRO yang dimana aplikasi ini berguna untuk menghitung luas segiitga.</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Alas: %1$s cm\nTinggi: %2$s cm\n %3$s cm</string>
+    <string name="belum_ada_data">Belum ada data</string>
+    <string name="histori">Histori</string>
+    <string name="value_x">Hasil: %1$.1f</string>
+    <string name="hapus_histori">Hapus Histori</string>
+    <string name="konfirmasi_hapus">Hapus semua histori?</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
 </resources>
