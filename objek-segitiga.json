@@ -1,0 +1,27 @@
+[
+    {
+        "nama": "hanger",
+        "keterangan": "Buat gantung baju",
+        "gambar": "hanger.jpg" 
+    },
+    {
+        "nama": "marka-jalan",
+        "keterangan": "Bendanya suka muncul dijalan, tapi gatau artinya apa yah",
+        "gambar": "marka-jalan.jpg"
+    },
+    {
+        "nama": "penggaris",
+        "keterangan": "Ternyata penggaris ada yang berbentuk segitiga!",
+        "gambar": "penggaris.jpg"
+    },
+    {
+        "nama": "pizza",
+        "keterangan": "Makanan ini mah",
+        "gambar": "pizza.jpg"
+    },
+    {
+        "nama": "tenda",
+        "keterangan": "Buat ngiuhan kalo kata orang sunda mah",
+        "gambar": "tenda.jpg"
+    }
+]
